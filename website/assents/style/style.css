@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+}
+.mytunes{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/showcase.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mytunes-text{
+    padding-top: 250px;
+    
+}
+.music{
+    width: 100%;
+    height: 1200px;
+}
+.granted{
+    width: 100%;
+    height: 1300px;
+}
+.world{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/section-bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.pic img{
+    width: 580px;
+    height: 394px;
+}
+.f-1 p{
+    font-size: 13px;
+}
+.f-2{
+    height: 25px;
+}
